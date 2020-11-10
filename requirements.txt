@@ -1,6 +1,4 @@
-Streamlit
->=0.68.0
+Streamlit>=0.68.0
 Pandas>=0.19
 Scikit-learn>=0.18
-
 Numpy>=1.19.2
